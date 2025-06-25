@@ -91,5 +91,7 @@ All calculations are performed inside the `user_credit_scores` view for easy que
 
 ## Screenshots  
 Added images in `dashboard/screenshots/
+![image](https://github.com/user-attachments/assets/3b7a02b6-9ebc-4d6a-aa01-18e89bdf6bcb)
+
 
 
